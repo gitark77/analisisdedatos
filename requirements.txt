@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+matplotlib
+scikit-learn
+googletrans==4.0.0-rc1
+seaborn
+numpy
+scipy
